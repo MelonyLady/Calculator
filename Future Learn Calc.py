@@ -34,4 +34,4 @@ while True:
         print(value1, "-", value2, "=", subtraction(value1, value2))
 
     else:
-        print("Enter correct operation")
+        print("Enter correct operation, please")
